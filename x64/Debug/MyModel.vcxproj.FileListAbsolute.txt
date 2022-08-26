@@ -1,0 +1,5 @@
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\x64\Debug\MyModel.vcxproj.AssemblyReference.cache
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\x64\Debug\MyModel.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\x64\Debug\MyModel.ModelForm.resources
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\x64\Debug\MyModel.vcxproj.GenerateResource.cache
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\x64\Debug\MyModel.exe

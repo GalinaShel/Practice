@@ -1,0 +1,6 @@
+﻿  ModelForm.cpp
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\ModelForm.h(405,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\ModelForm.h(446,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Галина\Documents\год\учеба\практика\MyModel\ModelForm.h(496,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  Child.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MyModel.vcxproj -> C:\Users\Галина\Documents\год\учеба\практика\MyModel\x64\Debug\MyModel.exe
